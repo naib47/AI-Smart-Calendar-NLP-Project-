@@ -1,4 +1,19 @@
-# Zero Calendar
+#Description:
+Developed an intelligent calendar system that allows users to create events and reminders using natural language commands. The system processes user input through NLP models and automatically schedules events in the calendar without manual configuration.
+
+Key Features
+
+Natural language event creation
+
+Google Calendar integration
+
+Smart reminders and notifications
+
+AI-powered scheduling suggestions
+
+Technologies:
+Python, NLP, Flask, Google Calendar API
+------------------------------------------------------------
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FZero-Calendar%2Fzero-calendar)
 
